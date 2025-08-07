@@ -1,0 +1,15 @@
+{
+  "title": "数据中心",
+  "expend": {
+    "title": "消费数据",
+    "bill": {
+      "title": "账单管理"
+    },
+    "account_book": {
+      "title": "账簿管理"
+    },
+    "bill_plan": {
+      "title": "消费计划"
+    }
+  }
+}
